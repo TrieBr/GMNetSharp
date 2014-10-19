@@ -1,4 +1,0 @@
-F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\bin\Debug\GMNetSharp.dll
-F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\bin\Debug\GMNetSharp.pdb
-F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\obj\Debug\GMNetSharp.dll
-F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\obj\Debug\GMNetSharp.pdb
