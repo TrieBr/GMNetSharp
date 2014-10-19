@@ -1,0 +1,4 @@
+F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\bin\Release\GMNetSharp.dll
+F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\bin\Release\GMNetSharp.pdb
+F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\obj\Release\GMNetSharp.dll
+F:\Dropbox\Development\Libraries\C# GameMaker Networking\GMNetSharp\obj\Release\GMNetSharp.pdb
